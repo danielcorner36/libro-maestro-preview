@@ -22,7 +22,7 @@ Primera versión funcional, en español, de un espacio local para acompañar el 
 - Listas de control, evaluación orientativa de impacto potencial y maqueta tipográfica simple de cubierta.
 - Alertas preliminares de longitud de oraciones, repeticiones inmediatas y marcadores pendientes.
 - Encargos editoriales que se copian para trabajar después con Zapia en el chat.
-- Exportación a Markdown y DOCX/EPUB básicos; vista imprimible del navegador para guardar como PDF. Respaldo/restauración del proyecto JSON.
+- Exportación a Markdown y DOCX/EPUB básicos; al descargar DOCX/EPUB se comprueban internamente sus paquetes ZIP/XML y la presencia del texto. La apariencia aún debe revisarse en Word/lector; la vista para PDF depende de imprimir en el navegador. Respaldo/restauración JSON.
 - Pantalla «Alcance completo» con todos los requisitos de las imágenes, estados honestos de avance, dependencias y fases recomendadas.
 - Especificación del producto en `ESPECIFICACION_PRODUCTO.md`, con funciones, privacidad, dependencias y criterios para considerarlo listo.
 
