@@ -19,6 +19,7 @@ Primera versión funcional, en español, de un espacio local para acompañar el 
 - Importación local de Markdown/TXT y extracción de texto/encabezados desde DOCX/EPUB (máximo 20 MB), con opción segura de añadir o reemplazar capítulos. No conserva la maquetación, imágenes, comentarios ni notas al pie. Los ZIP se leen en el navegador con fflate, licencia MIT (ver LICENSE.fflate).
 - Dieciséis plantillas editables para preliminares y secciones finales; se exportan con el manuscrito en Markdown.
 - Registro de fuentes con localizadores, cita textual, paráfrasis de trabajo, afirmación respaldada y vínculo manual con los capítulos donde se utilizan.
+- Mapa manual de afirmaciones por capítulo: fragmento, fuente asociada, localizador, pasaje de evidencia, nota y estado («por comprobar», «contrastada por mí» o «sin respaldo encontrado»). El resumen solo cuenta afirmaciones registradas por el autor; no analiza automáticamente el manuscrito.
 - Listas de control, evaluación orientativa de impacto potencial y maqueta tipográfica simple de cubierta.
 - Alertas preliminares de longitud de oraciones, repeticiones inmediatas y marcadores pendientes.
 - Encargos editoriales que se copian para trabajar después con Zapia en el chat; cada capítulo permite guardar retroalimentación, acciones y decisiones sin mezclarlas con el manuscrito.
