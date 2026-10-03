@@ -12,7 +12,7 @@ Primera versión funcional, en español, de un espacio local para acompañar el 
 ## Qué incluye esta versión
 
 - Ficha de proyecto: título, autor, género, lector y promesa.
-- Ruta editorial en nueve etapas: concepto, investigación, arquitectura, manuscrito, edición de fondo, estilo, integridad, producción y publicación.
+- Ruta editorial en nueve etapas: concepto, investigación, arquitectura, manuscrito, edición de fondo, estilo, integridad, producción y publicación. Inicio con siguiente paso sugerido según datos guardados y la ruta completa desplegable; no es un juicio de IA.
 - Biblioteca local de varios proyectos, mapa editable de capítulos y borradores con conteo de palabras.
 - Biblia narrativa por proyecto: personajes, motivaciones, arcos, relaciones, cronología y reporte literal de presencia por capítulo.
 - Perfil de voz y muestra autorizada por proyecto, incluidos en encargos editoriales que decides copiar a Zapia.
