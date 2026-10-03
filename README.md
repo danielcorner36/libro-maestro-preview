@@ -18,10 +18,11 @@ Primera versión funcional, en español, de un espacio local para acompañar el 
 - Perfil de voz y muestra autorizada por proyecto, incluidos en encargos editoriales que decides copiar a Zapia.
 - Importación local de Markdown/TXT y extracción de texto/encabezados desde DOCX/EPUB (máximo 20 MB), con opción segura de añadir o reemplazar capítulos. No conserva la maquetación, imágenes, comentarios ni notas al pie. Los ZIP se leen en el navegador con fflate, licencia MIT (ver LICENSE.fflate).
 - Dieciséis plantillas editables para preliminares y secciones finales; se exportan con el manuscrito en Markdown.
-- Registro de fuentes y notas de uso.
+- Registro de fuentes con localizadores, cita textual, paráfrasis de trabajo, afirmación respaldada y vínculo manual con los capítulos donde se utilizan.
 - Listas de control, evaluación orientativa de impacto potencial y maqueta tipográfica simple de cubierta.
 - Alertas preliminares de longitud de oraciones, repeticiones inmediatas y marcadores pendientes.
-- Encargos editoriales que se copian para trabajar después con Zapia en el chat; cada capítulo permite guardar la retroalimentación recibida, las acciones decididas y si se aplicarán, pospondrán o descartarán, sin mezclarla con el manuscrito.
+- Encargos editoriales que se copian para trabajar después con Zapia en el chat; cada capítulo permite guardar retroalimentación, acciones y decisiones sin mezclarlas con el manuscrito.
+- Registro por capítulo del origen de ideas/materiales, el aporte del autor y el uso de IA o colaboradores; incluye exportación de un informe de trazabilidad en Markdown. Son anotaciones manuales, no una certificación de autoría.
 - Exportación a Markdown y DOCX/EPUB básicos; al descargar DOCX/EPUB se comprueban internamente sus paquetes ZIP/XML y la presencia del texto. La apariencia aún debe revisarse en Word/lector; la vista para PDF depende de imprimir en el navegador. Respaldo/restauración JSON.
 - Pantalla «Alcance completo» con todos los requisitos de las imágenes, estados honestos de avance, dependencias y fases recomendadas.
 - Especificación del producto en `ESPECIFICACION_PRODUCTO.md`, con funciones, privacidad, dependencias y criterios para considerarlo listo.
@@ -30,7 +31,7 @@ Primera versión funcional, en español, de un espacio local para acompañar el 
 
 - Los datos se guardan en el almacenamiento local del navegador; no hay cuentas, nube ni sincronización entre dispositivos. Exporta respaldos con frecuencia.
 - No hay conexión interna a un modelo de IA. Los botones preparan encargos para revisar el material con Zapia en el chat; el contenido no se envía automáticamente.
-- No es un detector de plagio: no consulta bases de similitud ni certifica originalidad. Fuentes, permisos, coincidencias y atribuciones requieren verificación humana y, cuando convenga, una herramienta externa especializada.
+- No es un detector de plagio ni de IA: no consulta bases de similitud, no determina autoría y no certifica originalidad. La procedencia, los aportes y el uso de herramientas se registran manualmente; ayudan a ordenar la revisión, pero no prueban quién escribió un texto. Verifica las fuentes y permisos; las coincidencias externas requieren revisión humana.
 - Las alertas de gramática y estilo son simples heurísticas, no una corrección ortotipográfica completa.
 - La maqueta de cubierta es conceptual; no genera archivos de imprenta.
 - El checklist de publicación no certifica aceptación ni sustituye las instrucciones oficiales vigentes del canal, la revisión legal, fiscal o de derechos.
