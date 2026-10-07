@@ -21,6 +21,7 @@ Primera versión funcional, en español, de un espacio local para acompañar el 
 - Registro de fuentes con localizadores, cita textual, paráfrasis de trabajo, afirmación respaldada y vínculo manual con los capítulos donde se utilizan.
 - Mapa manual de afirmaciones por capítulo: fragmento, fuente asociada, localizador, pasaje de evidencia, nota y estado («por comprobar», «contrastada por mí» o «sin respaldo encontrado»). La sugerencia local marca algunos patrones de cifras, fechas o atribuciones; el autor decide qué registrar. Puede fallar y no detecta plagio ni revisa semánticamente el manuscrito.
 - La auditoría de fichas copia solo los registros manuales; otra opción permite copiar el borrador completo de un capítulo elegido junto con las fichas, tras mostrar un aviso de privacidad. Nada se envía automáticamente; el contenido solo se comparte si el autor lo pega en otro servicio.
+- Seguimiento manual por capítulo: estados «pendiente», «en revisión» y «revisado por mí». Es organización del trabajo del autor, no certificación de fuentes ni de originalidad.
 - Listas de control, evaluación orientativa de impacto potencial y maqueta tipográfica simple de cubierta.
 - Alertas preliminares de longitud de oraciones, repeticiones inmediatas y marcadores pendientes.
 - Encargos editoriales que se copian para trabajar después con Zapia en el chat; cada capítulo permite guardar retroalimentación, acciones y decisiones sin mezclarlas con el manuscrito.
